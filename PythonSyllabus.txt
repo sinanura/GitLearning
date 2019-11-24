@@ -1,0 +1,7 @@
+Python.
+
+Hello World
+Data Type
+Veriable 
+If Else.
+loop
